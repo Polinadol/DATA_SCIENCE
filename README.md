@@ -1,2 +1,2 @@
 # DATA_SCIENCE
-Выполнение урока 1 Numpy Pandas
+Выполнение заданий  видеоурока 2 Numpy Pandas
